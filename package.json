@@ -1,5 +1,5 @@
 {
-  "name": "JATE",
+  "name": "jate",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -11,6 +11,10 @@
     "install": "cd server && npm i && cd ../client && npm i",
     "client": "cd client && npm start"
   },
+  "keywords":[],
+  "author":"",
+  "license":"ISC",
+  
   "dependencies": {
     "express": "^4.17.1",
     "if-env": "^1.0.4"
