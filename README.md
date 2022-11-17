@@ -14,7 +14,7 @@ SO THAT I can reliably retrieve them for later use
 ```
 ## Mock
 https://i.postimg.cc/y8WLXY2z/CH-19.png 
-## Acceptance Criteria
+## Acceptance Criteria  
 
 ```md
 GIVEN a text editor web application
