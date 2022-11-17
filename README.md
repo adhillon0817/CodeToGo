@@ -3,7 +3,6 @@
 
 In this application, you will have the opportunity to download this application and code on the go! You may access this on the browser and if there is no internet where your at, you can still be able to open this application.
 
-You will deploy this full-stack application to Heroku using the [Heroku Deployment Guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide).
 
 ## User Story
 
@@ -67,3 +66,5 @@ THEN I should have proper build scripts for a webpack application
 
 ## Author
 Avleen Kaur Dhillon https://github.com/adhillon0817 
+                    
+                    https://codetogo.herokuapp.com/ 
