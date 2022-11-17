@@ -25,13 +25,12 @@ export const getDb = async (value) => {
   const request = store.getAll();
   const result = await request;
   console.log('result.value', result);
-  return result;
 };
 
 
 
 // TODO: Add logic to a method that accepts some content and adds it to the database Day 3 - 26
-export const putDb = async (content) => {
+export const putDb = async (id, value) => {
   // console.error('putDb not implemented')
   console.log('PUT to the database');
   const jateDb = await openDB('jate', 1);
